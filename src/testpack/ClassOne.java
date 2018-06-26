@@ -18,6 +18,11 @@ public class ClassOne {
 	//Created by amar
 	static void method3() {
 		System.out.println("method2");
+		
+	}
+	//created by vino
+	static void method4() {
+		System.out.println("method4");
 	}
 
 }
