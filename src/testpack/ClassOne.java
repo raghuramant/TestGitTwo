@@ -19,5 +19,11 @@ public class ClassOne {
 	static void method3() {
 		System.out.println("method2");
 	}
+	
+	//created by karthik
+	 public void message()
+	 {
+		 System.out.println("Hello");
+	 }
 
 }
