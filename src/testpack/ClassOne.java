@@ -12,4 +12,8 @@ public class ClassOne {
 		System.out.println("method1");
 	}
 
+	static void method2() {
+		System.out.println("method2");
+	}
+
 }
