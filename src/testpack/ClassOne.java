@@ -15,5 +15,8 @@ public class ClassOne {
 	static void method2() {
 		System.out.println("method2");
 	}
+	static void surekha(){
+		System.out.println("surekha");
+	}
 
 }
