@@ -6,6 +6,8 @@ public class ClassOne {
 		// TODO Auto-generated method stub
 
 		method1();
+		message();
+		message1();
 	}
 
 	static void method1() {
@@ -21,9 +23,14 @@ public class ClassOne {
 	}
 	
 	//created by karthik
-	 public void message()
+	 public static  void message()
 	 {
 		 System.out.println("Hello");
+	 }
+	 
+	 static void message1()
+	 {
+		 System.out.println("hello world");
 	 }
 
 }
