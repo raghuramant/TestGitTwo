@@ -16,4 +16,8 @@ public class ClassOne {
 		System.out.println("method2");
 	}
 
+	static void method3() {
+		System.out.println("method3");
+	}
+
 }
