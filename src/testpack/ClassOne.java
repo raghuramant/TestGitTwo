@@ -17,7 +17,7 @@ public class ClassOne {
 	}
 	//Created by amar
 	static void method3() {
-		System.out.println("method2");
+		System.out.println("method3");
 	}
 
 }
