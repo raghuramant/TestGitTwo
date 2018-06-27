@@ -15,15 +15,20 @@ public class ClassOne {
 	static void method2() {
 		System.out.println("method2");
 	}
-	//Created by amar
+
+	// Created by amar
 	static void method3() {
 		System.out.println("method2");
 	}
-	
-	//created by karthik
-	 public void message()
-	 {
-		 System.out.println("Hello");
-	 }
+
+	// created by karthik
+	public void message() {
+		System.out.println("Hello");
+	}
+
+	// created by hemanth
+	public void message1() {
+		System.out.println("message1");
+	}
 
 }
