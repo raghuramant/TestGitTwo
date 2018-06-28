@@ -25,5 +25,10 @@ public class ClassOne {
 	 {
 		 System.out.println("Hello");
 	 }
+	 //created by sathya
+	 public void sathya()
+	 {
+		 System.out.println("Welcome");
+	 }
 
 }
