@@ -26,4 +26,12 @@ public class ClassOne {
 		 System.out.println("Hello");
 	 }
 
+                      //created by anu
+	 static void message4()
+	 {
+		 System.out.println("Hello world");
+
+}
+
+
 }
